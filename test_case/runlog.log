@@ -1,0 +1,16 @@
+2019-07-18 16:32:46,132 Myunit.py[line:8]INFO=====setUP======
+2019-07-18 16:32:46,141 desired_caps.py[line:21]INFOStart app ..
+2019-07-18 16:33:03,901 test_login.py[line:10]INFO=====test_login_15979994517===========
+2019-07-18 16:33:17,645 Myunit.py[line:11]INFO=====tearDown=======
+2019-07-18 16:33:23,390 Myunit.py[line:8]INFO=====setUP======
+2019-07-18 16:33:23,393 desired_caps.py[line:21]INFOStart app ..
+2019-07-18 16:33:43,890 test_login.py[line:15]INFO=====test_login_error_password===========
+2019-07-18 16:33:57,667 Myunit.py[line:11]INFO=====tearDown=======
+2019-07-18 16:34:03,405 Myunit.py[line:8]INFO=====setUP======
+2019-07-18 16:34:03,411 desired_caps.py[line:21]INFOStart app ..
+2019-07-18 16:34:21,695 test_login.py[line:20]INFO=====test_login_error_account===========
+2019-07-18 16:34:36,610 Myunit.py[line:11]INFO=====tearDown=======
+2019-07-18 16:36:43,315 Myunit.py[line:8]INFO=====setUP======
+2019-07-18 16:36:43,317 desired_caps.py[line:21]INFOStart app ..
+2019-07-18 16:36:58,495 test_login.py[line:20]INFO=====test_login_error_account===========
+2019-07-18 16:37:13,161 Myunit.py[line:11]INFO=====tearDown=======

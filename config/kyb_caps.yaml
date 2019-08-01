@@ -1,0 +1,17 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: emulator-5554
+#deviceName: 127.0.0.1:62001
+appPackage: com.jiarui.jfps
+#appPackage: com.tal.kaoyan
+appActivity: com.jiarui.jfps.ui.main.activity.MainActivity
+#appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+#appActivity: com.jiarui.jfps.ui.guide.activity.GuideActivity
+noRest: true
+automationName: Uiautomator2
+ip: 127.0.0.1
+port: 4723
+app: D:/kyb_testProject/app/金丰购_2.0.3测试版 (1).apk
+#app: D:/kyb_testProject/app/kaoyanbang_55.apk
+unicodeKeyboard: True
+resetKeyboard: True

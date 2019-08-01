@@ -1,0 +1,152 @@
+2019-07-18 17:40:22,943 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 17:45:07,488 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 17:45:39,326 ClickMyService.py[line:12] INFO no found
+2019-07-18 17:46:45,402 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 17:47:17,686 ClickMyService.py[line:12] INFO no found
+2019-07-18 17:48:04,323 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:04:10,041 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:05:30,919 Myunit.py[line:8] INFO =====setUP======
+2019-07-18 18:05:30,922 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:05:49,046 test_login.py[line:10] INFO =====test_login_15979994517===========
+2019-07-18 18:06:02,478 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-18 18:06:08,185 Myunit.py[line:8] INFO =====setUP======
+2019-07-18 18:06:08,188 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:06:27,847 test_login.py[line:16] INFO =====test_login_error_password===========
+2019-07-18 18:06:41,123 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-18 18:06:46,781 Myunit.py[line:8] INFO =====setUP======
+2019-07-18 18:06:46,783 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:07:06,936 test_login.py[line:21] INFO =====test_login_error_account===========
+2019-07-18 18:07:19,811 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-18 18:09:03,879 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:09:52,558 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:11:28,206 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:15:05,589 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:15:39,706 ClickMyService.py[line:12] INFO no found
+2019-07-18 18:17:28,741 desired_caps.py[line:26] INFO Start app ..
+2019-07-18 18:18:12,701 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 08:50:44,624 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:01:33,397 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:04:29,048 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:06:39,036 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:47:24,523 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:47:24,541 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:47:24,543 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:48:09,457 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:48:09,459 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:48:22,733 test_login.py[line:10] INFO =====test_login_15979994517===========
+2019-07-19 09:48:38,936 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-19 09:48:42,816 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:48:42,818 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:48:57,167 test_login.py[line:16] INFO =====test_login_error_password===========
+2019-07-19 09:49:12,274 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-19 09:49:16,095 Myunit.py[line:8] INFO =====setUP======
+2019-07-19 09:49:16,097 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:49:30,797 test_login.py[line:21] INFO =====test_login_error_account===========
+2019-07-19 09:49:45,421 Myunit.py[line:11] INFO =====tearDown=======
+2019-07-19 09:52:09,610 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:52:28,406 HomeBuyGoods.py[line:46] INFO 没有发现立即购买按钮
+2019-07-19 09:52:28,422 HomeBuyGoods.py[line:82] INFO 没有发现购买数量输入框
+2019-07-19 09:53:19,636 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:53:41,207 HomeBuyGoods.py[line:46] INFO 没有发现立即购买按钮
+2019-07-19 09:53:41,260 HomeBuyGoods.py[line:82] INFO 没有发现购买数量输入框
+2019-07-19 09:58:24,756 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 09:59:26,269 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:00:26,078 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:03:46,735 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:04:41,665 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:17:32,783 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:19:23,388 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:22:32,988 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:23:32,714 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:23:58,589 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:26:18,245 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:27:05,190 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:29:04,427 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:37:28,351 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:38:02,925 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:38:46,076 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:39:34,309 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:40:32,393 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:43:13,996 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:44:04,001 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:45:04,552 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:46:44,799 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:47:46,160 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:48:46,000 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:49:31,600 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:52:53,284 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:56:15,178 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 10:57:07,894 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 11:08:27,502 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 11:08:43,938 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 11:14:46,551 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 13:37:50,735 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 13:40:09,333 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 13:42:07,355 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 13:48:08,155 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 13:50:50,915 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:22:56,666 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:23:50,639 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:28:44,257 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:29:30,486 common_fun.py[line:186] INFO 没有定位toast元素
+2019-07-19 14:42:07,387 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:42:26,034 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:44:32,240 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:44:46,617 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:45:20,837 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:51:33,640 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:53:03,875 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 14:54:20,310 common_fun.py[line:186] INFO 没有定位toast元素
+2019-07-19 14:56:48,907 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 15:06:09,170 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 15:08:30,674 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 15:15:05,766 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:39:47,760 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:40:00,121 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:41:16,802 common_fun.py[line:186] INFO 没有定位toast元素
+2019-07-19 16:42:19,168 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:42:59,725 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:49:47,498 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:51:03,269 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 16:51:41,489 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:01:29,450 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:02:49,680 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:03:20,928 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:06:45,882 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:09:04,101 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:10:37,662 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:13:20,166 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:14:18,783 common_fun.py[line:186] INFO 没有定位toast元素
+2019-07-19 17:33:24,830 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:41:26,190 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:43:12,866 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:46:25,262 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:47:59,436 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:48:11,056 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:48:45,852 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:49:16,236 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:50:14,828 common_fun.py[line:186] INFO 没有定位toast元素
+2019-07-19 17:54:25,377 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 17:59:32,864 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:01:48,305 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:07:15,482 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:11:18,385 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:12:21,159 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:22:44,264 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:29:01,481 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:33:03,754 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:35:46,381 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:39:58,279 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:48:36,395 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:50:14,560 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:56:57,751 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:57:33,806 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:58:37,760 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 18:59:32,650 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:06:53,681 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:11:36,482 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:14:18,493 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:16:13,705 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:17:37,114 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:18:13,530 desired_caps.py[line:26] INFO Start app ..
+2019-07-19 19:20:02,522 desired_caps.py[line:26] INFO Start app ..
